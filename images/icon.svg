@@ -1,0 +1,8 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 width="225px" height="250px" enable-background="new 0 0 225 225"
+	 xml:space="preserve">
+     <symbol id="hourglass" viewbox="0 0 225 225">
+<circle cx="100" cy="100" r="90" fill="white" stroke-width="20" stroke="black"/>
+<polyline points="160,170 215,215" stroke="black" stroke-width="20" stroke-linecap="round"/>
+    </symbol>
+</svg>
